@@ -1,22 +1,85 @@
-<h1 align="center">Hi 👋, I'm PARIKSHIT SINGH</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<div align="center">
 
 
-# 💫 About Me:
-* 🎓 **Final Year B.Tech CSE Student** focused on building scalable, reliable software.<br>* 💻 **Full-Stack Developer** experienced in React.js, Node.js, and web architectures.<br>* 🤖 **AI Enthusiast** building agentic workflows and multi-agent automation systems.<br>* 🛠️ **QA Mindset** dedicated to rigorous testing, optimization, and code quality.<br>* 🚀 **Open Source & DSA** actively practicing problem-solving and looking to contribute.
+```font=monospace
+ ██████╗  █████╗ ██████╗ ██╗██╗  ██╗███████╗██╗  ██╗██╗████████╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
+ ██╔══██╗██╔══██╗██╔══██╗██║██║ ██╔╝██╔════╝██║  ██║██║╚══██╔══╝    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
+ ██████╔╝███████║██████╔╝██║█████╔╝ ███████╗███████║██║   ██║       ███████╗██║██╔██╗ ██║██║  ███╗███████║
+ ██╔═══╝ ██╔══██║██╔══██╗██║██╔═██╗ ╚════██║██╔══██║██║   ██║       ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
+ ██║     ██║  ██║██║  ██║██║██║  ██╗███████║██║  ██║██║   ██║       ███████║██║██║ ╚████║╚██████╔╝██║  ██║
+ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝       ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=B.Tech+Student+%40+Sharda+University;Full-Stack+MERN+Developer;Building+with+a+QA+Mindset+%F0%9F%9F%A2;AI+Agentic+Workflows+%7C+Multi-Agent+Systems;A+passionate+Software+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Exploring+Generative+AI+%26+Autonomous+Agents;Engineering+intelligent%2C+scalable+solutions)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parikshit-singh-in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhparikshit2004@gmail.com) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=parikshit2023360554&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=parikshit2023360554&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=parikshit2023360554&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=parikshit2023360554&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+```bash
+visitor@github:~$ cat ./about_me.txt
+
+  Name    : Parikshit Singh
+  Handle  : parikshit2023360554
+  Uni     : Sharda University
+  Focus   : MERN Stack · AI Agents · LangChain & LangGraph · System Validation
+  Status  : ▰▰▰▰▰▰▰▰▰▱  Building with a precision QA Mindset
+  Collab  : OPEN — Looking for open-source contributions & GSoC ✅
+```
+
+
+---
+## `> Connect_With_Me`
+
+<table>
+  <tr>
+    <td><a href="https://github.com/parikshit2023360554" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a></td>
+    <td><a href="https://linkedin.com/in/parikshit-singh-in" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
+    <td><a href="https://instagram.com/parikshit.singh_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></td>
+    <td><a href="https://www.hackerrank.com/singhparikshit22" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a></td>
+    <td><a href="https://www.leetcode.com/Parikshit_singh_code" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a></td>
+    <td><a href="mailto:singhparikshit2004@gmail.com" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WDa6LLeqBTO5hd0nYI8fKuft_6msc63WgKNL87HE7Q&s=10" height="30" width="40" /></a></td>
+  </tr>
+</table>
+
+
+---
+
+
+
+
+
+## `> Tech_Stack`
+
+| Web / Frontend | Backend / Frameworks | Databases |
+|----------------|---------------------|-----------|
+| <img src="https://skillicons.dev/icons?i=react" width="40"/> <img src="https://skillicons.dev/icons?i=html" width="40"/> <img src="https://skillicons.dev/icons?i=css" width="40"/> <img src="https://skillicons.dev/icons?i=js" width="40"/> <img src="https://skillicons.dev/icons?i=vite" width="40"/> <img src="https://skillicons.dev/icons?i=vue" width="40"/> <img src="https://skillicons.dev/icons?i=angular" width="40"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> <img src="https://skillicons.dev/icons?i=express" width="40"/> <img src="https://skillicons.dev/icons?i=nextjs" width="40"/> <img src="https://skillicons.dev/icons?i=py" width="40"/> <img src="https://skillicons.dev/icons?i=django" width="40"/> <img src="https://skillicons.dev/icons?i=flask" width="40"/> <img src="https://skillicons.dev/icons?i=php" width="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <img src="https://skillicons.dev/icons?i=sqlite" width="40"/> |
+
+| ML / AI / Data Science | Mobile / App Development | DevOps / Tools / Platforms | System / Languages |
+|----------------------|--------------------------|----------------------------|-------------------|
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/> <img src="https://skillicons.dev/icons?i=pytorch" width="40"/> <img src="https://cdn.simpleicons.org/pandas" width="40"/> <img src="https://cdn.simpleicons.org/numpy" width="40"/> <img src="https://cdn.simpleicons.org/plotly" width="40"/> <img src="https://skillicons.dev/icons?i=anaconda" width="40"/> | <img src="https://skillicons.dev/icons?i=flutter" width="40"/> <img src="https://skillicons.dev/icons?i=dart" width="40"/> <img src="https://skillicons.dev/icons?i=react" width="40"/> | <img src="https://skillicons.dev/icons?i=git" width="40"/> <img src="https://skillicons.dev/icons?i=github" width="40"/> <img src="https://skillicons.dev/icons?i=gitlab" width="40"/> <img src="https://skillicons.dev/icons?i=vscode" width="40"/> <img src="https://skillicons.dev/icons?i=docker" width="40"/> <img src="https://skillicons.dev/icons?i=postman" width="40"/> <img src="https://skillicons.dev/icons?i=jenkins" width="40"/> <img src="https://skillicons.dev/icons?i=aws" width="40"/> <img src="https://skillicons.dev/icons?i=azure" width="40"/> <img src="https://skillicons.dev/icons?i=gcp" width="40"/> <img src="https://skillicons.dev/icons?i=firebase" width="40"/> <img src="https://skillicons.dev/icons?i=vercel" width="40"/> <img src="https://skillicons.dev/icons?i=netlify" width="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40"/> <img src="https://skillicons.dev/icons?i=ts" width="40"/> <img src="https://skillicons.dev/icons?i=py" width="40"/> <img src="https://skillicons.dev/icons?i=cpp" width="40"/> <img src="https://skillicons.dev/icons?i=c" width="40"/> <img src="https://skillicons.dev/icons?i=cs" width="40"/> <img src="https://skillicons.dev/icons?i=java" width="40"/> <img src="https://skillicons.dev/icons?i=kotlin" width="40"/> <img src="https://skillicons.dev/icons?i=linux" width="40"/> <img src="https://skillicons.dev/icons?i=bash" width="40"/> |
+
+---
+
+## `> Github.stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=parikshit2023360554&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=parikshit2023360554&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&include_all_commits=true&count_private=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=parikshit2023360554&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+<!-- <div align="center">
+  
+  ![snake gif](https://raw.githubusercontent.com/parikshit2023360554/parikshit2023360554/main/github-snake-dark.svg)
+  
+</div> -->
